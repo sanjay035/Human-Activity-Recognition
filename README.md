@@ -1,5 +1,5 @@
 # Human-Activity-Recognition
-A Classification based task of predicting human activity based on the raw sensor data from the Accelerometer and Gyroscope.
+A Classification based task of predicting human activity (Sitting, standing, walking etc) based on the raw sensor data from the Accelerometer and Gyroscope.
 
 * Types of MLPs tried are,
   1. Used basic multi layered LSTM since it's a time series data of overlapping windows.
